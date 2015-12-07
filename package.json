@@ -1,0 +1,21 @@
+{
+  "name": "patchitem",
+  "version": "0.0.1",
+  "description": "\"Item of a list, which contains patchwork projects.\"",
+  "main": "app.js",
+  "scripts": {
+	"init": "npm install",
+    "install": "bower install",
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacksonmsantana1/patchitem.git"
+  },
+  "author": "Jackson Martorano Sant'Ana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksonmsantana1/patchitem/issues"
+  },
+  "homepage": "https://github.com/jacksonmsantana1/patchitem#readme"
+}

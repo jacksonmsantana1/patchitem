@@ -1,0 +1,21 @@
+{
+  "name": "patchitem",
+  "homepage": "https://github.com/jacksonmsantana1/patchitem",
+  "authors": [
+    "Jackson Martorano Sant'Ana <jackson.m.santana1@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
